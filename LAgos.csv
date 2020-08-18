@@ -1,0 +1,481 @@
+,name,lat,long,address,zipcode
+0,Sam’s Club,33.9499068,-118.1624495,"5871 Firestone Blvd, South Gate, CA 90280, USA",90280
+1,Sam’s Club,33.873949,-118.2983967,"1399 Artesia Blvd, Gardena, CA 90248, USA",90248
+2,Arlington Community Market,34.0185074,-118.3177609,"3798 Arlington Ave, Los Angeles, CA 90018, USA",90018
+3,M & M Mini Market & Restaurant,33.9885001,-118.2479153,"5811 Compton Ave, Los Angeles, CA 90011, USA",90011
+4,Yoly’s Market No 2,34.0284566,-118.1817045,"531 S Bonnie Beach Pl, Los Angeles, CA 90063, USA",90063
+5,Ralphs,34.1023206,-118.3082535,"5429 Hollywood Blvd, Los Angeles, CA 90027, USA",90027
+6,Royale Grocery,34.1020586,-118.3105183,"1710 Garfield Pl, Los Angeles, CA 90028, USA",90028
+7,Bernstein Corner,34.0946687,-118.3134705,"1280 N Wilton Pl, Los Angeles, CA 90038, USA",90038
+8,Beverly Hills Farmers Market,34.0736573,-118.3991009,"9300 Civic Center Dr, Beverly Hills, CA 90210, USA",90210
+9,Cielito Lindo Meat Market,33.9673215,-118.2474438,"7900 Compton Ave, Los Angeles, CA 90001, USA",90001
+10,Ant Liquor,34.0576595,-118.3075682,"W 8th St, Los Angeles, CA, USA",90001
+11,Jim’s Fallbrook Market,34.0301101,-118.291761,"2715 S Vermont Ave, Los Angeles, CA 90007, USA",90007
+12,Christina’s Market,34.0422095,-118.2073684,"2600 E 1st St, Los Angeles, CA 90033, USA",90033
+13,Big Bear Market,34.026275,-118.2296712,"1510 S Santa Fe Ave, Los Angeles, CA 90021, USA",90021
+14,Guerrero Grocery,34.0708878,-118.3235852,"S Larchmont Blvd, Los Angeles, CA 90004, USA",90004
+15,Larchmont Farmers Market,34.074842,-118.3239467,"209 N Larchmont Blvd, Los Angeles, CA 90004, USA",90004
+16,Glendale Ranch Market,34.0887848,-118.361552,"N Fairfax Ave, Central LA, CA, USA",90004
+17,My Kosher Wine,33.895696,-118.3091454,"S Western Ave, California, USA",90004
+18,El Santauro Choe’s Discount Market,34.0313566,-118.122419,"2469 Via Campo St, Montebello, CA 90640, USA",90640
+19,Max Foods-Grocery Warehouse Food Centers,34.022725,-118.354347,"3480 South La Brea Ave, Los Angeles, CA 90016, USA",90016
+20,Superior Grocers,34.0397389,-118.1865138,"3600 East Cesar E Chavez Avenue, Los Angeles, CA 90063, USA",90063
+21,La Family Market,33.9102883,-118.2313817,"E Stockwell St, Willowbrook, CA 90222, USA",90222
+22,J & J Grocery,34.2008952,-118.421843,"13244 Sherman Way # B, North Hollywood, CA 91605, USA",91605
+23,Grocery Outlet,34.0449524,-118.452374,"11540 Santa Monica Blvd, Los Angeles, CA 90025, USA",90025
+24,Cherry Garden Market,34.1333335,-118.2511548,"328 E Chevy Chase Dr, Glendale, CA 91205, USA",91205
+25,El Mambi Mkt,41.7710802,-87.6186025,"S Prairie Ave, Chicago, IL, USA",91205
+26,Tomato Market,34.1335613,-118.2689017,"4101 Chevy Chase Dr, Los Angeles, CA 90039, USA",90039
+27,Boone’s Market,42.0668961,-93.8825552,"11th St, Boone, IA 50036, USA",50036
+28,T & J Mkt,41.8236021,-87.7631511,"S Central Ave, Illinois, USA",50036
+29,Super Dollar,34.1063553,-118.2874407,"Hillhurst Ave, Los Angeles, CA 90027, USA",90027
+30,7-Eleven,33.9313233,-118.3006887,"11255 Normandie Ave, Los Angeles, CA 90044, USA",90044
+31,Super King Markets,34.1670525,-118.2913216,"6501 San Fernando Rd, Glendale, CA 91201, USA",91201
+32,Coldwater Farm Hub,34.011613,-118.3558529,"South La Brea Ave, California, USA",91201
+33,Trader Joe’s,30.2569923,-81.3898053,"4180 S 3rd St S, Jacksonville Beach, FL 32250, USA",32250
+34,Whole Foods Market,34.0456943,-118.2572291,"788 S Grand Ave, Los Angeles, CA 90017, USA",90017
+35,MaxVel Mini Mart,34.0775099,-118.3892346,"9039 Beverly Blvd, West Hollywood, CA 90048, USA",90048
+36,Bristol Farms - West Hollywood,34.0775099,-118.3892346,"9039 Beverly Blvd, West Hollywood, CA 90048, USA",90048
+37,Reyes Wholesale Produce,34.0389513,-118.2412255,"619 Kohler St, Los Angeles, CA 90021, USA",90021
+38,Trader Joe’s,45.4888244,-122.6235486,"4715 SE Cesar Estrada Chavez Blvd, Portland, OR 97202, USA",97202
+39,Ocean Grocery Market,34.1341469,-118.2415542,"1101 E Chevy Chase Dr, Glendale, CA 91205, USA",91205
+40,Zeitoun Grocery,34.026076,-118.2846645,"3131 S Hoover St Ste 1920, Los Angeles, CA 90089, USA",90089
+41,Trader Joe’s,34.026076,-118.2846645,"3131 S Hoover St Ste 1920, Los Angeles, CA 90089, USA",90089
+42,A & A Grocery Store,34.0833225,-118.3434412,"7016 Melrose Ave, Los Angeles, CA 90038, USA",90038
+43,Standing’s Butchery,34.0807282,-118.4130493,"Sunset Blvd, California, USA",90038
+44,99 Cents Only Stores,34.16606040000001,-118.2886707,"6401 San Fernando Rd, Glendale, CA 91201, USA",91201
+45,Edna’s Coffee & Grocery,34.136812,-118.265119,"4649 San Fernando Rd, Glendale, CA 91204, USA",91204
+46,7-Eleven,33.9313233,-118.3006887,"11255 Normandie Ave, Los Angeles, CA 90044, USA",90044
+47,Sunny Grocery,34.052838,-118.298028,"2915 W Olympic Blvd, Los Angeles, CA 90006, USA",90006
+48,Choice Meat Market,34.119356,-118.090879,"6580 N San Gabriel Blvd, San Gabriel, CA 91775, USA",91775
+49,Odessa Grocery,34.0909925,-118.3589817,"7781 CA-2, West Hollywood, CA 90046, USA",90046
+50,Little Jewel of New Orleans,34.0600891,-118.2382038,"207 Ord St, Los Angeles, CA 90012, USA",90012
+51,Howie’s Market,34.2016714,-118.6029772,"7219 Jordan Ave, Canoga Park, CA 91303, USA",91303
+52,Latinos Market,37.2095669,-93.2642908,"1661 E St Louis St, Springfield, MO 65802, USA",65802
+53,Sam’s Club,33.9499068,-118.1624495,"5871 Firestone Blvd, South Gate, CA 90280, USA",90280
+54,El Rancho Super Market,34.0883427,-118.3262479,"960 Vine St, Los Angeles, CA 90038, USA",90038
+55,Ralph’s,34.0696849,-118.3436312,"260 South La Brea Ave, Los Angeles, CA 90036, USA",90036
+56,Good Life Organics,34.2709295,-118.5016593,"11024 Balboa Blvd Unit 27, Granada Hills, CA 91344, USA",91344
+57,Harris’ Grocery Mkt,34.0484992,-118.3415142,"4817 W Pico Blvd, Los Angeles, CA 90019, USA",90019
+58,Valeria’s Groceries,34.0687023,-118.2632445,"W Temple St, Los Angeles, CA, USA",90019
+59,Liborio Markets Corp,34.1428016,-118.1341383,"171 S Hudson Ave, Pasadena, CA 91101, USA",91101
+60,H L Foods Company,34.0468199,-118.303821,"2920 W Pico Blvd, Los Angeles, CA 90006, USA",90006
+61,Gelson’s,34.090554,-118.371309,"8330 W, Santa Monica Blvd, West Hollywood, CA 90069, USA",90069
+62,Ralphs,34.062651,-118.4439421,"10861 Weyburn Ave, Los Angeles, CA 90024, USA",90024
+63,Smart & Final Extra!,34.0880556,-118.3097222,"939 N Western Ave, Los Angeles, CA 90029, USA",90029
+64,Western Kosher,34.0484992,-118.3415142,"4817 W Pico Blvd, Los Angeles, CA 90019, USA",90019
+65,El Recreo Meat Market,34.0722496,-118.2736639,"2501 W Temple St, Los Angeles, CA 90026, USA",90026
+66,Los Angeles Distributing Company,33.9923814,-118.1298769,"2770 Vail Ave, Commerce, CA 90040, USA",90040
+67,Mexicano’s Grocery,34.0298872,-118.2430501,"1500 E Olympic Blvd Ste 22, Los Angeles, CA 90021, USA",90021
+68,La Bodega Market 3,34.03044879999999,-118.3094365,"2715 S Western Ave, Los Angeles, CA 90018, USA",90018
+69,South Park Market,33.9961205,-118.2653772,"5111 S Avalon Blvd, Los Angeles, CA 90011, USA",90011
+70,Asian Fast Food & Grocery,34.0553329,-118.2655155,"1260 W 6th St, Los Angeles, CA 90017, USA",90017
+71,Motor Avenue Farmers Market,34.0289306,-118.4111328,"&, National Blvd & Motor Ave, Los Angeles, CA 90034, USA",90034
+72,Beach Grocery Co,34.0455904,-118.2607684,"645 W 9th St, Los Angeles, CA 90015, USA",90015
+73,Whole Foods Market,34.0456943,-118.2572291,"788 S Grand Ave, Los Angeles, CA 90017, USA",90017
+74,India Spices & Groceries,34.05215829999999,-118.3708114,"5994 W Pico Blvd West, Los Angeles, CA 90035, USA",90035
+75,Produce For Less Market,34.0836595,-118.3106006,"5059 Melrose Ave, Los Angeles, CA 90038, USA",90038
+76,Sprouts Farmers Market,34.08727,-118.34435,"915 N La Brea Ave, Los Angeles, CA 90038, USA",90038
+77,Festival Food Market,34.0906932,-118.358092,"7744 Santa Monica Blvd, West Hollywood, CA 90046, USA",90046
+78,Mother’s Nutritional Centers,34.0472586,-118.3250312,"4100 W. Pico Blvd. Suites 1 & 2, Los Angeles, CA 90019, USA",90019
+79,Pavilions,34.0845425,-118.3272183,"727 N, Vine St, Los Angeles, CA 90038, USA",90038
+80,Supermercado Brazil,34.0168397,-118.4094379,"10826 Venice Blvd UNIT 105, Culver City, CA 90232, USA",90232
+81,Mother’s Nutritional Centers,33.9746119,-118.2500974,"1350 Florence Ave, Los Angeles, CA 90001, USA",90001
+82,Sprouts Farmers Market,34.08833,-118.37799,"8550 Santa Monica Blvd Ste 100, West Hollywood, CA 90069, USA",90069
+83,Winco Foods,33.858822,-118.15217,"3400 E South St, Lakewood, CA 90805, USA",90805
+84,Vernon Rancho Market,34.0043099,-118.2423217,"1713 E Vernon Ave #107, Los Angeles, CA 90058, USA",90058
+85,Ralph’s Grocery,45.1077917,-87.706831,"Marinette, WI 54143, USA",54143
+86,Lee’s Market,33.999621,-118.265481,"4801 S Avalon Blvd, Los Angeles, CA 90011, USA",90011
+87,Jerry’s Liquor,34.005638,-118.2919792,"4279 S Vermont Ave, Los Angeles, CA 90037, USA",90037
+88,La Market,34.0443392,-118.1778046,"4101 Floral Dr, Los Angeles, CA 90063, USA",90063
+89,Trader Joe’s,34.0722126,-118.3617784,"175 S Fairfax Ave, Los Angeles, CA 90036, USA",90036
+90,Catalina’s Market,34.0900139,-118.3089798,"1070 N Western Ave, Los Angeles, CA 90029, USA",90029
+91,SUPRMARKT,34.0048464,-118.3097749,"1721 W 43rd Pl, Los Angeles, CA 90062, USA",90062
+92,Metropolitan Mkt,34.0497258,-118.1759199,"N Eastern Ave, East Los Angeles, CA, USA",90062
+93,Choice Market,33.9977778,-118.3094444,"5001 S Western Ave, Los Angeles, CA 90062, USA",90062
+94,H Mart,34.0554279,-118.3086723,"928 S Western Ave, Los Angeles, CA 90006, USA",90006
+95,Sasoun Produce,34.0906279,-118.3010733,"5116 Santa Monica Blvd, Los Angeles, CA 90029, USA",90029
+96,H & P Grocery Market,33.9700094,-118.2741547,"7631 S Main St, Los Angeles, CA 90003, USA",90003
+97,Tnt Grocery,34.0106975,-118.3025156,"1462 W Martin Luther King Jr Blvd, Los Angeles, CA 90062, USA",90062
+98,Royalty Market,33.9831962,-118.269406,"6200 San Pedro St, Los Angeles, CA 90003, USA",90003
+99,Diana’s Mini Market,33.9926231,-118.2479421,"5509 Compton Ave, Los Angeles, CA 90011, USA",90011
+100,Carniceria 21,34.0864622,-118.287158,"825 N Virgil Ave, Los Angeles, CA 90029, USA",90029
+101,Super King Markets,34.109665,-118.2430243,"2716 N San Fernando Rd, Los Angeles, CA 90065, USA",90065
+102,Best Grocery Wholesale,34.0329806,-118.2450381,"1235 E Olympic Blvd, Los Angeles, CA 90021, USA",90021
+103,La Mixteca & Tortilleria,34.0049233,-118.0922683,"Whittier Blvd, California, USA",90021
+104,Angie’s Wholesale Groceries,34.0444201,-118.054539,"9832 Joe Vargas Way, South El Monte, CA 91733, USA",91733
+105,Lupita’s Meat Market,34.0329097,-118.30562,"1883 W Adams Blvd, Los Angeles, CA 90018, USA",90018
+106,Grocery Game,34.0601638,-118.3996433,"9467 W Olympic Blvd, Beverly Hills, CA 90212, USA",90212
+107,Papa Joe’s Foods,34.052182,-118.22721,"333 N Mission Rd, Los Angeles, CA 90033, USA",90033
+108,Universal Grocery Mkt,33.971705,-118.256725,"7511 S Central Ave, Los Angeles, CA 90001, USA",90001
+109,168 Market,34.080081,-118.1096576,"1421 Valley Blvd, Alhambra, CA 91801, USA",91801
+110,El Rey Supermarket,33.9253473,-118.1855548,"11200 Atlantic Ave, Lynwood, CA 90262, USA",90262
+111,Trader Joe’s,34.1003784,-118.3260586,"1600 N, Vine St, Los Angeles, CA 90028, USA",90028
+112,Tara’s Market,34.0010571,-118.4277715,"12131 Washington Pl, Los Angeles, CA 90066, USA",90066
+113,ALDI,33.9443614,-118.3295332,"3330 W Century Blvd, Inglewood, CA 90303, USA",90303
+114,Koreatown Galleria,34.0522222,-118.3083333,"3250 W Olympic Blvd, Los Angeles, CA 90006, USA",90006
+115,Asian Mart,34.0688804,-118.2974961,"3732 W 3rd St, Los Angeles, CA 90020, USA",90020
+116,H Mart,34.0626976,-118.3096133,"621 S Western Ave, Los Angeles, CA 90005, USA",90005
+117,7-Eleven,33.9313233,-118.3006887,"11255 Normandie Ave, Los Angeles, CA 90044, USA",90044
+118,Malabar Market,34.0458553,-118.1968698,"3054 Malabar St, Los Angeles, CA 90063, USA",90063
+119,Phil’s Discount Store,34.0591015,-118.2631659,"1451 1/2 W 3rd St, Los Angeles, CA 90017, USA",90017
+120,Baldwin Hills Community Market,34.0107541,-118.3370033,"3650 W Martin Luther King Jr Blvd, Los Angeles, CA 90008, USA",90008
+121,L A Broadway Mkt,33.96299760000001,-118.2781293,"8408 S Broadway, Los Angeles, CA 90003, USA",90003
+122,la milagrosa mini market,33.99079090000001,-118.2781057,"5638 S Broadway, Los Angeles, CA 90037, USA",90037
+123,Ecoop Farmers Market,34.0484251,-118.3558068,"W Pico Blvd, Los Angeles, CA, USA",90037
+124,Sasi Food Mart,34.0546071,-118.3820148,"8717 W Pico Blvd, Los Angeles, CA 90035, USA",90035
+125,La Fuente De Oro,33.9781516,-118.2475384,"6740 Compton Ave, Los Angeles, CA 90001, USA",90001
+126,Adi I9Nc,34.0807282,-118.4130493,"Sunset Blvd, California, USA",90001
+127,Community Quick Stop Market,33.9972681,-118.4223228,"12012 Washington Blvd #6, Los Angeles, CA 90066, USA",90066
+128,Mitsui Foods,33.9143679,-118.2827345,"S Figueroa St, California, USA",90066
+129,Nutricion Fundamental,34.0789028,-118.2606722,"1311 Glendale Blvd # F, Los Angeles, CA 90026, USA",90026
+130,Los Amigos Market,34.0952547,-118.2279963,"Cypress Ave, Los Angeles, CA 90065, USA",90065
+131,Walgreens,34.0982628,-118.3270299,"1501 Vine St, Los Angeles, CA 90028, USA",90028
+132,Hercules Market,33.9889287,-118.2866147,"726 W Slauson Ave, Los Angeles, CA 90044, USA",90044
+133,Simon Pasqual,33.961841,-118.3484037,"501 E Manchester Blvd, Inglewood, CA 90301, USA",90301
+134,Echo Foods,34.077716,-118.2575413,"1625 Sunset Blvd, Los Angeles, CA 90026, USA",90026
+135,Young’s Market,34.0240352,-118.272216,"2801 S Hill St, Los Angeles, CA 90007, USA",90007
+136,Commerce Market,34.2516363,-118.288853,"10049 Commerce Ave, Tujunga, CA 91042, USA",91042
+137,Jayde’s Market,34.1278919,-118.4444561,"2964 Beverly Glen Cir, Los Angeles, CA 90077, USA",90077
+138,Save Penny Mkt,34.0643564,-118.2549038,"N Bixel St, Los Angeles, CA 90026, USA",90026
+139,Save A Lot Mart,36.1778098,-95.95905479999999,"1526 N Lewis Ave, Tulsa, OK 74110, USA",74110
+140,La Ternera Meat Market,34.195075,-118.4461607,"6841 Lennox Ave, Van Nuys, CA 91405, USA",91405
+141,King’s Food Town Supermarket,34.0117398,-118.2923319,"1019 W Martin Luther King Jr Blvd, Los Angeles, CA 90037, USA",90037
+142,7 Days Convenient Store,34.005329,-118.334276,"4299 S Crenshaw Blvd, Los Angeles, CA 90008, USA",90008
+143,Ron’s Market,34.02038599999999,-118.273234,"3201 S Broadway, Los Angeles, CA 90007, USA",90007
+144,Morry’s Finer Foods,34.0550553,-118.3906216,"9118 W Pico Blvd, Los Angeles, CA 90035, USA",90035
+145,Principio Mercado Y Carniceria,34.0226028,-118.2657555,"2630 Maple Ave, Los Angeles, CA 90011, USA",90011
+146,7-Eleven,33.9313233,-118.3006887,"11255 Normandie Ave, Los Angeles, CA 90044, USA",90044
+147,Villalobos Market,34.0906162,-118.3047774,"5244 Santa Monica Blvd, Los Angeles, CA 90029, USA",90029
+148,Vallarta Supermarkets,34.188756,-118.417228,"13051 Victory Blvd, Valley Glen, CA 91606, USA",91606
+149,7-Eleven,33.9313233,-118.3006887,"11255 Normandie Ave, Los Angeles, CA 90044, USA",90044
+150,Lupe’s Tortilleria,34.0448781,-118.2037401,"2710 East Cesar E Chavez Avenue, Los Angeles, CA 90033, USA",90033
+151,Hawaii Supermarket,34.079263,-118.0988062,"120 E Valley Blvd, San Gabriel, CA 91776, USA",91776
+152,Ralph’s,34.0600536,-118.3085123,"670 S Western Ave, Los Angeles, CA 90005, USA",90005
+153,Smart & Final,34.0698519,-118.2783087,"2720 Beverly Blvd, Los Angeles, CA 90057, USA",90057
+154,Shwe Man Thu,34.0622962,-118.119388,"264 E Garvey Ave, Monterey Park, CA 91755, USA",91755
+155,Family Food Center,34.043485,-118.379316,"1835 S La Cienega Blvd, Los Angeles, CA 90035, USA",90035
+156,Imperia Caviar,34.0590031,-118.418866,"10250 Santa Monica Blvd, Los Angeles, CA 90067, USA",90067
+157,Miracle Market,33.8882123,-118.237384,"800 W Alondra Blvd, Compton, CA 90220, USA",90220
+158,Oasis Market,33.9524314,-118.3653243,"544 Arbor Vitae St, Inglewood, CA 90301, USA",90301
+159,Mother’s Nutritional Centers,34.0046176,-118.2568707,"4353 S Central Ave, Los Angeles, CA 90011, USA",90011
+160,Plaza Market,34.0671602,-117.9735222,"13902 Francisquito Ave, Baldwin Park, CA 91706, USA",91706
+161,M & L Food Co,34.0462769,-118.2254895,"145 S Utah St, Los Angeles, CA 90033, USA",90033
+162,Morita Produce,34.031559,-118.2412357,"1404-1528 E 8th St, Los Angeles, CA 90021, USA",90021
+163,Pescadaria P & A,33.9931712,-118.2566034,"5407 S Central Ave, Los Angeles, CA 90011, USA",90011
+164,Mother’s Nutritional Centers,34.0759304,-118.3012556,"4222 Beverly Blvd, Los Angeles, CA 90004, USA",90004
+165,Valley Indian Grocery and Boutique,34.256912,-118.6021205,"21706 Devonshire St, Chatsworth, CA 91311, USA",91311
+166,Pacific Coast Food,34.194382,-118.3645938,"10703 Vanowen St, North Hollywood, CA 91605, USA",91605
+167,Mrs. Winstons - LA’s Best Salad & Juice Bar,34.0467416,-118.261948,"888 S Figueroa St, Los Angeles, CA 90017, USA",90017
+168,Ralph’s,34.0935231,-118.3442511,"1233 N La Brea Ave, West Hollywood, CA 90038, USA",90038
+169,Pomona Market,34.0785594,-118.202984,"2747 Lincoln Park Ave #2428, Los Angeles, CA 90031, USA",90031
+170,El Sereno Ranch Market,34.0735812,-118.1786407,"El Sereno, Los Angeles, CA 90032, USA",90032
+171,99 Cents Only Stores,34.0867778,-118.3436916,"852 N La Brea Ave, Los Angeles, CA 90038, USA",90038
+172,Gelson’s,34.105803,-118.317384,"5877 Franklin Ave, Hollywood, CA 90028, USA",90028
+173,Christian Books & Veggie Foods | An Adventist Book Center,34.1522222,-118.2322222,"1501 E Chevy Chase Dr, Glendale, CA 91206, USA",91206
+174,Xin Yuan,34.0789467,-118.1000066,"1623 S Del Mar Ave, San Gabriel, CA 91776, USA",91776
+175,Super Discount Mini Market,33.9255722,-118.2739173,"S Main St, California, USA",91776
+176,La Flor De Michoacan,34.19365,-118.3972065,"12116 Vanowen St, North Hollywood, CA 91605, USA",91605
+177,Alameda Swap Meet,34.0023724,-118.2402767,"4501 S Alameda St, Los Angeles, CA 90058, USA",90058
+178,Bristol Farms - Manhattan Beach,33.9007381,-118.3856581,"1570 Rosecrans Ave, Manhattan Beach, CA 90266, USA",90266
+179,Mercado Garibaldi,34.0070638,-118.2563402,"4212 S Central Ave, Los Angeles, CA 90011, USA",90011
+180,Las Palmas Market,34.0943016,-118.3365127,"1259 N Las Palmas Ave, Los Angeles, CA 90038, USA",90038
+181,Mother’s Nutritional Centers,34.0287759,-118.2609917,"424 E Washington Blvd, Los Angeles, CA 90015, USA",90015
+182,82nd Market,34.0833548,-118.3137828,"5204 Melrose Ave, Los Angeles, CA 90038, USA",90038
+183,Ruthie’s Grocery Mkt,33.9867203,-118.1790472,"4759 Slauson Ave, Maywood, CA 90270, USA",90270
+184,Los Angeles Fish Company,34.043387,-118.240094,"420 Stanford Ave, Los Angeles, CA 90013, USA",90013
+185,Pacific Market,33.9698744,-118.2250377,"7630 Pacific Blvd, Huntington Park, CA 90255, USA",90255
+186,Ralphs Grocery,34.0260615,-118.4333132,"11361 National Blvd, Los Angeles, CA 90064, USA",90064
+187,Marukai Market,34.0501922,-118.242272,"123 S Onizuka St. #105, Los Angeles, CA 90012, USA",90012
+188,Mother’s Nutritional Centers,33.9742189,-118.2166149,"2919 Florence Ave, Huntington Park, CA 90255, USA",90255
+189,Sara’s Market,34.0525729,-118.1888603,"3455 City Terrace Dr, Los Angeles, CA 90063, USA",90063
+190,LA Tiendita,34.0282124,-118.182682,"S Record Ave, Los Angeles, CA 90023, USA",90023
+191,Ari Market,34.17747689999999,-118.297905,"906 S Glenoaks Blvd, Burbank, CA 91502, USA",91502
+192,Yalganesh Mini Market,33.976574,-118.3654452,"1513 Centinela Ave, Inglewood, CA 90302, USA",90302
+193,Whole Foods Market,33.9065918,-118.3927515,"760 S Sepulveda Blvd, El Segundo, CA 90245, USA",90245
+194,Sprouts Farmers Market,33.83568,-118.11765,"4253 Woodruff Ave, Lakewood, CA 90713, USA",90713
+195,Trader Joe’s,34.1579742,-118.4408137,"14119 Riverside Dr, Sherman Oaks, CA 91423, USA",91423
+196,Broguiere’s Farm Fresh Dairy,34.006029,-118.1188057,"505 S Maple Ave, Montebello, CA 90640, USA",90640
+197,Super Buy,33.9739989,-118.290763,"7224 S Vermont Ave, Los Angeles, CA 90044, USA",90044
+198,Big Square,34.1585806,-118.2649,"831 N Pacific Ave, Glendale, CA 91203, USA",91203
+199,Pioneer Cash And Carry,33.8648991,-118.0840233,"11700 183rd St, Artesia, CA 90701, USA",90701
+200,La Corona Meat Market & Deli,33.9820662,-118.2193923,"6353 Miles Ave, Huntington Park, CA 90255, USA",90255
+201,Indiana Market,34.0284348,-118.1920981,"568 S Indiana St, Los Angeles, CA 90063, USA",90063
+202,Stater Bros. Markets,34.1699706,-118.1118903,"1390 Allen Ave, Pasadena, CA 91104, USA",91104
+203,Walmart,34.1881673,-118.3251742,"1301 N Victory Pl, Burbank, CA 91502, USA",91502
+204,Compton Mkt & Liquor,34.0066988,-118.2475247,"4187 Compton Ave, Los Angeles, CA 90011, USA",90011
+205,Rainbow Acres Natural Foods,33.9932706,-118.441759,"13208 Washington Blvd, Los Angeles, CA 90066, USA",90066
+206,Mother’s Nutritional Center,33.9434318,-118.2544044,"10223 S Central Ave, Los Angeles, CA 90002, USA",90002
+207,Sam’s Club,33.9499068,-118.1624495,"5871 Firestone Blvd, South Gate, CA 90280, USA",90280
+208,Shang Lee Fresh Poultry,34.0602443,-118.2378754,"711 N Spring St, Los Angeles, CA 90012, USA",90012
+209,F & S Interprises,34.0470039,-118.24369,"Boyd St, Los Angeles, CA 90013, USA",90013
+210,Los Altos Liquor Store,37.3771523,-122.1170189,"303 1st St, Los Altos, CA 94022, USA",94022
+211,La Estrella Market,33.9748882,-118.2447307,"1615 Florence Ave, Los Angeles, CA 90001, USA",90001
+212,Arboleda Foods Products,33.7939124,-118.2977227,"25327 Normandie Ave #A, Harbor City, CA 90710, USA",90710
+213,Your Mkt,34.022634,-118.4100167,"Overland Ave, California, USA",90710
+214,Susana’s Mini Market,34.0006668,-118.2522433,"4715 Hooper Ave, Los Angeles, CA 90011, USA",90011
+215,M C Produce,34.017841,-118.2347728,"1995 E 20th St, Vernon, CA 90058, USA",90058
+216,Evelyn’s Mini Market N Water,33.9542695,-118.2782145,"S Broadway, California, USA",90058
+217,Azte Paca,40.0016584,-74.1586487,"Hooper Ave, New Jersey, USA",90058
+218,Zacapa Mini Market,33.9999743,-118.251972,"4810 Hooper Ave, Los Angeles, CA 90011, USA",90011
+219,Vida Fresh,34.0117343,-118.2393882,"2832 S Alameda St, Vernon, CA 90058, USA",90058
+220,Soofer Company,33.9913657,-118.2381565,"S Alameda St, California, USA",90058
+221,Chasin Foods,33.9752667,-118.1366805,"6818 Watcher St, Commerce, CA 90040, USA",90040
+222,Leo’s Mini-Market,33.9835643,-118.2824027,"6120 S Figueroa St, Los Angeles, CA 90003, USA",90003
+223,Odales Mini Mart,33.9485147,-118.2540727,"S Central Ave, California, USA",90003
+224,Glenda’s Mini Market,33.9485147,-118.2540727,"S Central Ave, California, USA",90003
+225,American World Foods,34.0377483,-118.2232041,"638 S Anderson St, Los Angeles, CA 90023, USA",90023
+226,A & A Market,33.9783095,-118.3005368,"6709 Normandie Ave, Los Angeles, CA 90044, USA",90044
+227,Gage Market,33.9828261,-118.2828547,"6225 S Figueroa St, Los Angeles, CA 90003, USA",90003
+228,Superior Grocers,33.9881733,-118.2896939,"5824 S Vermont Ave, Los Angeles, CA 90044, USA",90044
+229,El Torito Market,33.937408,-118.232833,"10804 Juniper St, Los Angeles, CA 90059, USA",90059
+230,Jons Marketplace,34.091147,-118.3051549,"5315 Santa Monica Blvd, Los Angeles, CA 90029, USA",90029
+231,Marina Tres Market,29.7677018,-95.55819389999999,"12699 Memorial Dr, Houston, TX 77024, USA",77024
+232,Prime Time Nutrition,34.0904638,-118.3187752,"5930 Santa Monica Blvd, Los Angeles, CA 90038, USA",90038
+233,Gumbo Mkt,34.0038067,-118.2452699,"1610 E Vernon Ave, Los Angeles, CA 90011, USA",90011
+234,El Coco Market,33.9808524,-118.3483452,"611 E Fairview Blvd, Inglewood, CA 90302, USA",90302
+235,ALDI,33.8896705,-118.3037856,"1550 W Redondo Beach Blvd, Gardena, CA 90247, USA",90247
+236,Beachwood Market,34.12004780000001,-118.3215999,"2701 Belden Dr, Los Angeles, CA 90068, USA",90068
+237,Azteca’s Mini Market,33.9739157,-118.2476789,"Compton Ave, California, USA",90068
+238,7-Eleven,34.029645,-118.1489197,"5401 E Beverly Blvd, East Los Angeles, CA 90022, USA",90022
+239,Wabash Rancho Market,34.04979910000001,-118.1967006,"2844 Wabash Ave, Los Angeles, CA 90033, USA",90033
+240,Alex Discount Store,34.0734179,-118.2120081,"2830 N Broadway, Los Angeles, CA 90031, USA",90031
+241,Siwa,60.16985569999999,24.9383791,"Helsinki, Finland",90031
+242,Fickett Market,34.0498189,-118.2035627,"711 N Fickett St, Los Angeles, CA 90033, USA",90033
+243,Bearman Mickey Company,33.977635,-118.237143,"6820 Wilson Ave, Los Angeles, CA 90001, USA",90001
+244,Oasis Market 1,34.0052344,-118.2715473,"4312 Wall St, Los Angeles, CA 90011, USA",90011
+245,Goya Foods of Calif,34.0342879,-118.245718,"831 Kohler St, Los Angeles, CA 90021, USA",90021
+246,Bernardo’s Market,33.9868687,-118.2562506,"5902 S Central Ave, Los Angeles, CA 90001, USA",90001
+247,Commonwealth Mkt,34.0874579,-118.1418548,"300 S Marengo Ave, Alhambra, CA 91803, USA",91803
+248,P A P General Merchandising,33.969824,-118.3088062,"7702 S Western Ave, Los Angeles, CA 90047, USA",90047
+249,Perez Market,34.004561,-118.265612,"4355 S Avalon Blvd, Los Angeles, CA 90011, USA",90011
+250,Celia’s Mkt,34.043754,-118.2008504,"East Cesar E Chavez Avenue, California, USA",90011
+251,El Milagro Market,33.9794312,-118.2698934,"6607 San Pedro St, Los Angeles, CA 90003, USA",90003
+252,Poblonita Produce,34.0408464,-118.4549886,"Stoner Ave, Los Angeles, CA, USA",90003
+253,Domingo’s Italian Deli,34.161516,-118.5158038,"17548 Ventura Blvd, Encino, CA 91316, USA",91316
+254,Quigley’s Mkt,33.9041446,-118.292131,"14015 Vermont Ave, Gardena, CA 90247, USA",90247
+255,4 Hermanos Market No 9,33.9684857,-118.2695439,"San Pedro St, California, USA",90247
+256,Fines Market,34.0237961,-118.2182698,"2765 E Olympic Blvd, Los Angeles, CA 90023, USA",90023
+257,7-Eleven,34.029645,-118.1489197,"5401 E Beverly Blvd, East Los Angeles, CA 90022, USA",90022
+258,Dj’s Smoke Shop And Mini Mart,33.3936425,-111.8710049,"1840 W Southern Ave #7, Mesa, AZ 85202, USA",85202
+259,Grocery Outlet Bargain Market,33.903684,-118.08321,"14027 Pioneer Blvd, Norwalk, CA 90650, USA",90650
+260,Eighty Nine Cents Discount More & More,34.04727,-118.20965,"2222 East Cesar E Chavez Avenue, Los Angeles, CA 90033, USA",90033
+261,Nkems Market II,34.0037171,-118.3034631,"W Vernon Ave, Los Angeles, CA, USA",90033
+262,Bloom’s Market,33.474003,-112.185283,"W Vernon Ave, Phoenix, AZ, USA",90033
+263,Olympic Snacks,34.0400784,-118.2551123,"S Los Angeles St, Los Angeles, CA, USA",90033
+264,Hoa Viet Market,34.2018444,-118.5909028,"21001 Sherman Way, Canoga Park, CA 91303, USA",91303
+265,Rico’s Nutrition,33.9744187,-118.2786974,"306 W Florence Ave, Los Angeles, CA 90003, USA",90003
+266,Ninety-Eight Cent Soto Discount,34.041218,-118.212311,"2315 East 4th St, Los Angeles, CA 90033, USA",90033
+267,Gizmo Beverages,34.0411796,-118.2549432,"900 S Main St, Los Angeles, CA 90015, USA",90015
+268,Three D Market,34.0735108,-118.2518222,"1380 Sunset Blvd, Los Angeles, CA 90026, USA",90026
+269,C & H Discount Market,33.9707191,-118.2917409,"7611 Vermont Ave, Los Angeles, CA 90044, USA",90044
+270,Westwood Country Market,34.06182200000001,-118.4461552,"1036 Broxton Ave, Los Angeles, CA 90024, USA",90024
+271,Nayarit Meat Market,33.9820662,-118.2193923,"6353 Miles Ave, Huntington Park, CA 90255, USA",90255
+272,Right Choice Caribbean Market,34.0072142,-118.3350767,"4233 S, Crenshaw Blvd, Los Angeles, CA 90008, USA",90008
+273,La Palma Market,33.9273309,-118.2919728,"S Vermont Ave, Los Angeles, CA, USA",90008
+274,Walmart Supercenter,33.9849245,-118.1051343,"8500 Washington Blvd, Pico Rivera, CA 90660, USA",90660
+275,Silver Moon Mkt,34.0401518,-118.2104304,"2501 East 4th St, Los Angeles, CA 90033, USA",90033
+276,Eltrebol,34.0469037,-118.2086772,"2310 East Cesar E Chavez Avenue, Los Angeles, CA 90033, USA",90033
+277,Flavor Foods,34.0875569,-118.211605,"3580 Pasadena Ave, Los Angeles, CA 90031, USA",90031
+278,Centro Mercado Market,34.0155198,-118.303458,"Dalton Ave, Los Angeles, CA, USA",90031
+279,Centro Latino Meat Market,34.0691679,-118.2952037,"3629 W 3rd St, Los Angeles, CA 90004, USA",90004
+280,Fuentes Market,34.0264694,-118.2633084,"2228 Maple Ave, Los Angeles, CA 90011, USA",90011
+281,Hi Ho Market,34.1194666,-118.178728,"623 N Avenue 64, Los Angeles, CA 90042, USA",90042
+282,Ninety Cents and Up,34.04771910000001,-118.2841817,"S Hoover St, Los Angeles, CA, USA",90042
+283,Ron’s Number 2 Mini-Market,34.0425887,-118.2528489,"107 E 8th St, Los Angeles, CA 90014, USA",90014
+284,Adams Ranch Market,34.0232731,-118.2660468,"258 E Adams Blvd, Los Angeles, CA 90011, USA",90011
+285,Daily Food Mkt,34.0236296,-118.2651299,"2530 Maple Ave, Los Angeles, CA 90011, USA",90011
+286,Olive Fresh Garden Marketplace,34.179666,-118.4061744,"12521 Oxnard St, North Hollywood, CA 91606, USA",91606
+287,La Chiquita Minimarket,42.2616667,-89.1002778,"1108 S Main St, Rockford, IL 61101, USA",61101
+288,Royal Frozen Food,34.0487751,-118.3563899,"5423 W Pico Blvd, Los Angeles, CA 90019, USA",90019
+289,Angelus Mini Market,34.0520114,-118.24943,"255 S Hill St, Los Angeles, CA 90012, USA",90012
+290,A W Mkt,34.0038491,-118.3200661,"2425/2 W Vernon Ave #1, Los Angeles, CA 90008, USA",90008
+291,Wall Market,34.025271,-118.2628571,"502 E 23rd St, Los Angeles, CA 90011, USA",90011
+292,El Charrito Market,34.0254209,-118.2626002,"501 E 23rd St, Los Angeles, CA 90011, USA",90011
+293,Venice Market,34.0331894,-118.3820745,"8681 Venice Blvd, Los Angeles, CA 90034, USA",90034
+294,Chayo Market,34.0205877,-118.2670971,"2916 Maple Ave, Los Angeles, CA 90011, USA",90011
+295,30th Street Market,34.0203803,-118.2672732,"2924 Maple Ave, Los Angeles, CA 90011, USA",90011
+296,Jenny’s Nutrition,34.0057384,-118.2919549,"4269 Vermont Ave, Los Angeles, CA 90037, USA",90037
+297,El Porvenir Mkt,34.0201184,-118.2673446,"3000 Maple Ave, Los Angeles, CA 90011, USA",90011
+298,7-Eleven,33.9313233,-118.3006887,"11255 Normandie Ave, Los Angeles, CA 90044, USA",90044
+299,Senor 1 Dollar,34.0596607,-118.2844472,"2802 W 7th St, Los Angeles, CA 90005, USA",90005
+300,Leon’s Mini Market,33.975231,-118.274226,"7111 S Main St, Los Angeles, CA 90003, USA",90003
+301,Melrose Market,34.0839357,-118.3053197,"4803 Melrose Ave, Los Angeles, CA 90029, USA",90029
+302,7-Eleven,33.9313233,-118.3006887,"11255 Normandie Ave, Los Angeles, CA 90044, USA",90044
+303,Shop Wise Market,33.9739157,-118.2476789,"Compton Ave, California, USA",90044
+304,Ralphs,34.0984886,-118.3483894,"7257 Sunset Blvd, West Hollywood, CA 90046, USA",90046
+305,Downtown Los Angeles Farmer’s Market,34.04778599999999,-118.249941,"209 W 5th St, Los Angeles, CA 90013, USA",90013
+306,Ramirez Market,34.0250451,-118.2121959,"2971 E 8th St, Los Angeles, CA 90023, USA",90023
+307,Soto Market,34.052136,-118.2042449,"900 N Soto St, Los Angeles, CA 90033, USA",90033
+308,Eataly - Los Angeles,34.0601833,-118.4187694,"10250 Santa Monica Blvd, Los Angeles, CA 90067, USA",90067
+309,1999 Sundries,34.0588024,-118.4168798,"1999 Avenue of the Stars, Los Angeles, CA 90067, USA",90067
+310,Nuts & More,34.0329756,-118.3725156,"5850 Washington Blvd, Culver City, CA 90232, USA",90232
+311,Mercado Mexico Market,34.0257743,-118.1969642,"3554 Whittier Blvd, Los Angeles, CA 90023, USA",90023
+312,Moreno’s Market,33.9848917,-118.2479232,"6027 Compton Ave, Los Angeles, CA 90001, USA",90001
+313,Alexis Deli & Grocery,34.2153928,-118.2396207,"4050 La Crescenta Ave, Montrose, CA 91020, USA",91020
+314,El Nuevo Paisano,34.0689466,-118.3224518,"W 3rd St, California, USA",91020
+315,Market Trax International,34.0480177,-118.4433867,"Santa Monica Blvd, California, USA",91020
+316,Best Market,34.00566999999999,-118.2874301,"4275 S Hoover St, Los Angeles, CA 90037, USA",90037
+317,J & J Grocery & Liquor,34.0906322,-118.3006755,"5100 Santa Monica Blvd, Los Angeles, CA 90029, USA",90029
+318,Fiesta Market,34.1061734,-118.2369696,"3026 1/2 Verdugo Rd, Los Angeles, CA 90065, USA",90065
+319,Nature’s Produce,34.0093218,-118.2085561,"3305 Bandini Blvd, Vernon, CA 90058, USA",90058
+320,King’s Mkt,33.9662614,-118.3088599,"8000 S Western Ave, Los Angeles, CA 90047, USA",90047
+321,San Diego Market,32.715738,-117.1610838,"San Diego, CA, USA",90047
+322,East La Liquor Market,34.0483766,-118.2041632,"530 N Fickett St, Los Angeles, CA 90033, USA",90033
+323,Leo’s Market,33.9247878,-118.2740605,"11875 S Main St, Los Angeles, CA 90061, USA",90061
+324,Trading West,34.0540144,-118.4419455,"Midvale Ave, Los Angeles, CA, USA",90061
+325,Happy Bargain,33.9720727,-118.2785097,"7421 S Broadway, Los Angeles, CA 90003, USA",90003
+326,Cuhautemoc Mexican Foods,34.0320336,-118.2107631,"2748 Whittier Blvd, Los Angeles, CA 90023, USA",90023
+327,Lorena’s Market,33.9783675,-118.2785823,"6723 S Broadway, Los Angeles, CA 90003, USA",90003
+328,Campos Mini Market,33.9745777,-118.2666359,"440 E Florence Ave, Los Angeles, CA 90003, USA",90003
+329,Yucca Supermarket,34.104395,-118.330473,"1815 N Cahuenga Blvd, Los Angeles, CA 90028, USA",90028
+330,Super Mini Market,33.9497329,-118.2068935,"9325 California Ave, South Gate, CA 90280, USA",90280
+331,Friendly Mkt,34.0255334,-118.2133087,"2921 E 8th St, Los Angeles, CA 90023, USA",90023
+332,La Princesita Tortilleria,34.0317391,-118.210533,"2760 Whittier Blvd, Los Angeles, CA 90023, USA",90023
+333,Sorrento Italian Market,33.9927778,-118.395,"5518 Sepulveda Blvd, Culver City, CA 90230, USA",90230
+334,Lily’s Market,33.9809325,-118.2999953,"6416 Normandie Ave, Los Angeles, CA 90044, USA",90044
+335,Ranch Market,34.0317743,-118.355989,"5212 W Adams Blvd, Los Angeles, CA 90016, USA",90016
+336,La Princesita Tortilleria & Laprincesita Meat Market,34.0317391,-118.210533,"2760 Whittier Blvd, Los Angeles, CA 90023, USA",90023
+337,Mission Hill Market,34.2642258,-118.466472,"15340 Chatsworth St, Mission Hills, CA 91345, USA",91345
+338,Sun’s Discount Store,34.0453892,-118.2042479,"2455 East Cesar E Chavez Avenue, Los Angeles, CA 90033, USA",90033
+339,M G Market,34.1336175,-118.2680621,"4129 Chevy Chase Dr, Los Angeles, CA 90039, USA",90039
+340,Coronado’s Meat Market 3,33.7235843,-118.3116024,"2308 S Western Ave, San Pedro, CA 90732, USA",90732
+341,Fat & Fat,33.9790314,-118.2562615,"6702 S Central Ave, Los Angeles, CA 90001, USA",90001
+342,Tochma Market,33.9730602,-118.2737809,"7330 S Main St, Los Angeles, CA 90003, USA",90003
+343,Super Bargain,33.9452232,-118.3605204,"4736 W Century Blvd, Inglewood, CA 90304, USA",90304
+344,Anita’s Market,33.974969,-118.2683945,"333 E Florence Ave, Los Angeles, CA 90003, USA",90003
+345,Bjans Mini Mart,33.9887487,-118.2407848,"1800 E Slauson Ave, Los Angeles, CA 90058, USA",90058
+346,Vallarta Supermarkets,34.180179,-118.367749,"10859 Oxnard St, North Hollywood, CA 91606, USA",91606
+347,Galindo Mini Market,33.9786725,-118.2562491,"6720 S Central Ave, Los Angeles, CA 90001, USA",90001
+348,Sam’s Club,33.9499068,-118.1624495,"5871 Firestone Blvd, South Gate, CA 90280, USA",90280
+349,Shahanshah Market,34.0385192,-118.4271897,"Westwood Blvd, California, USA",90280
+350,Elizas Mini Market,33.9726607,-118.2738083,"7408 S Main St, Los Angeles, CA 90003, USA",90003
+351,Walmart,33.9548084,-118.1877812,"4651 Firestone Blvd, South Gate, CA 90280, USA",90280
+352,Ninety Eight Cent Store,33.96583530000001,-118.2912985,"8028 Vermont Ave, Los Angeles, CA 90044, USA",90044
+353,Chelis’ Mini Market,34.0396963,-118.337061,"2 W Washington Blvd #1, Los Angeles, CA 90016, USA",90016
+354,Martinez Mini Market 2,33.9349623,-118.2647869,"11022 S Avalon Blvd, Los Angeles, CA 90061, USA",90061
+355,Martha’s Mini Market,34.0085219,-118.2520224,"4122 Hooper Ave, Los Angeles, CA 90011, USA",90011
+356,West Slauson Market,33.988586,-118.335327,"West / Slauson, Los Angeles, CA 90043, USA",90043
+357,East La Market No 2,33.8131385,-118.232804,"23215 Alameda St, Carson, CA 90745, USA",90745
+358,Camacho Sales Inc.,33.9625181,-118.309405,"8405 S Western Ave, Los Angeles, CA 90047, USA",90047
+359,Jacobs Mini Market,33.9625181,-118.309405,"8405 S Western Ave, Los Angeles, CA 90047, USA",90047
+360,West Fresh Produce,34.0314791,-118.24245,"1601 E Olympic Blvd Ste 325, Los Angeles, CA 90015, USA",90015
+361,West American Imports,34.0664372,-118.2203911,"N Main St, Los Angeles, CA, USA",90015
+362,Coco Discount,34.0035341,-118.2573725,"1044 E Vernon Ave, Los Angeles, CA 90011, USA",90011
+363,Estrella 97 Cents & Up,33.9791679,-118.2232038,"2668 Zoe Ave, Huntington Park, CA 90255, USA",90255
+364,Milagros Mini Market No 3,34.0067743,-118.2523471,"4225 Hooper Ave, Los Angeles, CA 90011, USA",90011
+365,Lap International,34.0689291,-118.2263474,"1711 Naud St, Los Angeles, CA 90012, USA",90012
+366,Mercado Don Juan,34.146693,-117.343843,"2199 Darby St, San Bernardino, CA 92407, USA",92407
+367,Lazard Middle Market,34.058838,-118.416591,"1999 Avenue of the Stars Suite 1800, Los Angeles, CA 90067, USA",90067
+368,Angelica’s Market,33.9943374,-118.2702686,"243 E 53rd St, Los Angeles, CA 90011, USA",90011
+369,Ming Jiang Food Store,34.0703828,-118.2261024,"1731 N Spring St, Los Angeles, CA 90012, USA",90012
+370,Nickabood’s,34.02459109999999,-118.2361662,"1401 Elwood St, Los Angeles, CA 90021, USA",90021
+371,Ascot Mini Market,36.104878,-95.97326149999999,"1401 E 41st St, Tulsa, OK 74105, USA",74105
+372,DOS Amigos Market,34.0369601,-118.1939561,"3425 E 1st St, Los Angeles, CA 90063, USA",90063
+373,La Fortuna,34.0165673,-118.2416899,"1734 E 22nd St, Vernon, CA 90058, USA",90058
+374,Aqua Crystal and Grocery,34.1936009,-118.4058732,"12502 Vanowen St, North Hollywood, CA 91605, USA",91605
+375,Win Produce,39.6219852,-104.9880642,"S Broadway, Colorado, USA",91605
+376,Mi Chapita Mini Market,33.9901036,-118.2779936,"5724 S Broadway, Los Angeles, CA 90037, USA",90037
+377,Martinez Minimarket,33.9961047,-118.2653997,"5117 S Avalon Blvd, Los Angeles, CA 90011, USA",90011
+378,J P Mkt,33.895696,-118.3091454,"S Western Ave, California, USA",90011
+379,Los Amigos Mkt,33.9944133,-118.2741775,"5255 S Main St, Los Angeles, CA 90037, USA",90037
+380,Yogi Tea-Special Teaz,34.0415868,-118.4596482,"11870 Santa Monica Blvd #111, Los Angeles, CA 90025, USA",90025
+381,Crenshaw Farmer’s Market,34.0110086,-118.3364738,"3650 W Martin Luther King Jr Blvd, Los Angeles, CA 90008, USA",90008
+382,Galvez Market,34.0562795,-118.2072308,"2040 Marengo St, Los Angeles, CA 90033, USA",90033
+383,La Vencedora Products,34.0574354,-118.1898115,"3322 Fowler St, Los Angeles, CA 90063, USA",90063
+384,Nadia’s Mini Market,33.9999743,-118.251972,"4810 Hooper Ave, Los Angeles, CA 90011, USA",90011
+385,J V Produce,34.0323004,-118.2322698,"Mateo St, Los Angeles, CA, USA",90011
+386,Tienda Quetzal,34.0010268,-118.2566714,"4625 S Central Ave, Los Angeles, CA 90011, USA",90011
+387,Tokyo Central,33.872147,-118.307538,"1740 Artesia Blvd, Gardena, CA 90248, USA",90248
+388,7-Eleven,34.029645,-118.1489197,"5401 E Beverly Blvd, East Los Angeles, CA 90022, USA",90022
+389,Los Paisas 1 Mini Market,33.9790541,-118.2408986,"6618 Holmes Ave, Los Angeles, CA 90001, USA",90001
+390,Food 4 Less,34.0421476,-118.3101355,"1717 S Western Ave, Los Angeles, CA 90006, USA",90006
+391,Hyde Park Discount,41.7972186,-87.5839922,"S Hyde Park Blvd, Chicago, IL, USA",90006
+392,Thai Variety Food,33.8766228,-117.5837783,"650 S Lincoln Ave, Corona, CA 92882, USA",92882
+393,Galleria Food Court,34.2561012,-118.5372461,"10201 Reseda Blvd #108, Northridge, CA 91324, USA",91324
+394,Kristy’s Mini Market,34.013815,-118.2581175,"E 33rd St, Los Angeles, CA, USA",91324
+395,Lupita Mini Market,34.0347274,-118.2168854,"2300 Whittier Blvd, Los Angeles, CA 90023, USA",90023
+396,Crenshaw Mini Mkt,33.9808516,-118.3311039,"6431 Crenshaw Blvd, Los Angeles, CA 90043, USA",90043
+397,Jt Produce,34.0285321,-118.2318844,"2312 Damon St, Los Angeles, CA 90021, USA",90021
+398,Family Market,34.005942,-118.249935,"4267 Ascot Ave, Los Angeles, CA 90011, USA",90011
+399,Vernon & Hooper Mkt,34.0040852,-118.2519999,"1301 E Vernon Ave, Los Angeles, CA 90011, USA",90011
+400,Miguel’s Mart,34.000188,-118.2566581,"4801 S Central Ave, Los Angeles, CA 90011, USA",90011
+401,Sparten Market,36.8460674,-75.98325009999999,"1900 Cypress Ave #4107, Virginia Beach, VA 23451, USA",23451
+402,One Fish Market,34.0397561,-118.3037404,"2018 W Washington Blvd, Los Angeles, CA 90018, USA",90018
+403,Nikabar,34.0132488,-118.2418746,"2652 Long Beach Ave, Vernon, CA 90058, USA",90058
+404,7-Eleven,33.9313233,-118.3006887,"11255 Normandie Ave, Los Angeles, CA 90044, USA",90044
+405,Dollar Dreamworks,34.1025972,-118.2359754,"2904 Division St, Los Angeles, CA 90065, USA",90065
+406,Sun Moon Mkt,34.03468,-118.2947497,"1507 W 24th St, Los Angeles, CA 90007, USA",90007
+407,OP Market,34.015745,-118.4616704,"2305 Ocean Park Blvd, Santa Monica, CA 90405, USA",90405
+408,El Furete Mkt,34.0410448,-118.2033755,"2901 E 1st St, Los Angeles, CA 90033, USA",90033
+409,Angelito’s Nutrition,33.9676618,-118.157856,"5985 E Florence Ave # M, Bell Gardens, CA 90201, USA",90201
+410,Cameo Market,33.9802922,-118.3092576,"6507 S Western Ave, Los Angeles, CA 90047, USA",90047
+411,Sprouts Farmers Market,34.14727999999999,-118.07407,"39 N Rosemead Blvd, Pasadena, CA 91107, USA",91107
+412,Tropicana Market,39.6219852,-104.9880642,"S Broadway, Colorado, USA",91107
+413,Kawa Market,34.080939,-118.079574,"8729 Valley Blvd, Rosemead, CA 91770, USA",91770
+414,Tnt Market,34.0106975,-118.3025156,"1462 W Martin Luther King Jr Blvd, Los Angeles, CA 90062, USA",90062
+415,Candys 99 Up Store,33.9032269,-118.2170496,"606 Rosecrans Ave, Compton, CA 90222, USA",90222
+416,Lupita Market,33.9876284,-118.2785882,"5875 S Broadway, Los Angeles, CA 90003, USA",90003
+417,J & M Mkt,33.9390875,-118.2869659,"S Hoover St, Los Angeles, CA, USA",90003
+418,Salgado Produce Market,34.0708137,-118.1759705,"5061 Alhambra Ave, Los Angeles, CA 90032, USA",90032
+419,Ma ‘n Pa Grocery,33.7697222,-118.1380556,"346 Roycroft Ave, Long Beach, CA 90814, USA",90814
+420,Santana Market,33.9690494,-118.2736425,"7724 S Main St, Los Angeles, CA 90003, USA",90003
+421,Saffola Quality Foods,34.0375531,-118.2264399,"633 S Mission Rd, Los Angeles, CA 90023, USA",90023
+422,3 Brothers Produce,34.017841,-118.2347728,"1995 E 20th St, Los Angeles, CA 90058, USA",90058
+423,New Downtown Cafe And Mini Market,34.0426892,-118.2493276,"241 7th St, Los Angeles, CA 90014, USA",90014
+424,Tortilleria San Marcos,34.046394,-118.216328,"1927 E 1st St, Los Angeles, CA 90033, USA",90033
+425,Pratunum Super Market,34.2209881,-118.4139709,"8232 Coldwater Canyon Ave, North Hollywood, CA 91605, USA",91605
+426,La Barca Tortilleria,34.030183,-118.205615,"3047 Whittier Blvd, Los Angeles, CA 90023, USA",90023
+427,Guadalupana Market,34.0693688,-118.2153594,"2062 Daly St, Los Angeles, CA 90031, USA",90031
+428,Baby Soft International Company,34.0172136,-118.2369947,"1905 E 22nd St, Vernon, CA 90058, USA",90058
+429,Moises Mini Market,34.0040437,-118.2498197,"1401 E Vernon Ave, Los Angeles, CA 90011, USA",90011
+430,Walmart Supercenter,33.9148614,-117.9660467,"1340 S Beach Blvd, La Habra, CA 90631, USA",90631
+431,Ben’s Mini Market,34.1941499,-118.4410553,"14131 Vanowen St, Van Nuys, CA 91405, USA",91405
+432,Corona Market,33.9518692,-118.2693007,"9300 San Pedro St, Los Angeles, CA 90003, USA",90003
+433,Manhattan Grocery,33.8841805,-118.4105968,"1111 Manhattan Ave, Manhattan Beach, CA 90266, USA",90266
+434,Twenty-One Grocery,34.0630801,-118.0379119,"10905 Garvey Ave, El Monte, CA 91733, USA",91733
+435,21 Liquor Mart,33.9017725,-118.3079878,"1732 Rosecrans Ave, Gardena, CA 90249, USA",90249
+436,Nu-Way Mkt,33.9845675,-118.2414157,"6101 Holmes Ave, Los Angeles, CA 90001, USA",90001
+437,Denny’s Market,34.0508486,-118.199171,"2730 Wabash Ave, Los Angeles, CA 90033, USA",90033
+438,Bo’s Altadena Market,34.1957229,-118.1503548,"153 W Altadena Dr, Altadena, CA 91001, USA",91001
+439,Corona Beer & Wine Market,33.9818995,-118.2442815,"1630 E Gage Ave, Los Angeles, CA 90001, USA",90001
+440,La Flor Meat Market,33.9470078,-118.2697433,"9809 San Pedro St, Los Angeles, CA 90003, USA",90003
+441,El Rancho Produce,33.9949298,-118.4175197,"4500 Inglewood Blvd, Culver City, CA 90230, USA",90230
+442,Nina’s Market,33.96537,-118.2784929,"8121 S Broadway, Los Angeles, CA 90003, USA",90003
+443,C & C Mkt,34.0223813,-118.2069206,"3300 E 8th St, Los Angeles, CA 90023, USA",90023
+444,Jh Bazaar,34.0288751,-118.2918193,"2823 S Vermont Ave, Los Angeles, CA 90007, USA",90007
+445,Lulu Minimarket,33.9785556,-118.2478884,"6725 Compton Ave, Los Angeles, CA 90001, USA",90001
+446,The Community Mini Market,33.9661801,-118.2743449,"8025 S Main St, Los Angeles, CA 90003, USA",90003
+447,True World Foods - Los Angeles,34.0059714,-118.238467,"4200 S Alameda St, Vernon, CA 90058, USA",90058
+448,One Stop Mini Market,33.9834861,-118.2375682,"6201 S Alameda St, Los Angeles, CA 90001, USA",90001
+449,Nelly’s Mini Market,34.0352422,-118.2419973,"742 S Central Ave, Los Angeles, CA 90021, USA",90021
+450,7-Eleven,33.9313233,-118.3006887,"11255 Normandie Ave, Los Angeles, CA 90044, USA",90044
+451,Julie’s Mkt,34.1138921,-118.2469943,"Fletcher Dr, Los Angeles, CA, USA",90044
+452,Union Plaza Market,34.05733670000001,-118.2696201,"1629 W 6th St, Los Angeles, CA 90017, USA",90017
+453,International Distributors,33.9866582,-118.1412991,"6600 Bandini Blvd, Commerce, CA 90040, USA",90040
+454,Eleven Union Liquor,34.0479571,-118.275407,"1605 W 11th St, Los Angeles, CA 90015, USA",90015
+455,La Fiesta Market,33.98583180000001,-118.2697021,"5957 San Pedro St, Los Angeles, CA 90003, USA",90003
+456,Magee’s House of Nuts,34.0722405,-118.360184,"6333 W 3rd St #218, Los Angeles, CA 90036, USA",90036
+457,Navarro Mini Market,33.9793189,-118.2868668,"6600 S Hoover St, Los Angeles, CA 90044, USA",90044
+458,Healthy Cuisine Integration,34.1104492,-118.2347986,"W Ave 33, Los Angeles, CA 90065, USA",90065
+459,City Market,34.0455967,-118.3506398,"5107 W North Venice Blvd, Los Angeles, CA 90019, USA",90019
+460,Mi Rancho Market,33.9986609,-118.2479626,"4881 Compton Ave, Los Angeles, CA 90011, USA",90011
+461,Roys Market,33.9834434,-118.2740988,"6127 S Main St, Los Angeles, CA 90003, USA",90003
+462,Star Market,34.0943635,-118.3261841,"Fountain Ave, California, USA",90003
+463,Sunny Latino Market,33.9742353,-118.3158268,"2100 W Florence Ave, Los Angeles, CA 90047, USA",90047
+464,West Florence Fish Market,33.9745633,-118.3255712,"W Florence Ave, California, USA",90047
+465,Shorty Mini Market,33.9927038,-118.256261,"5504 S Central Ave #4730, Los Angeles, CA 90011, USA",90011
+466,Melrose Liquor Market,34.0839357,-118.3053197,"4803 Melrose Ave, Los Angeles, CA 90029, USA",90029
+467,48 St market,34.0001752,-118.3189147,"2371 W 48th St, Los Angeles, CA 90043, USA",90043
+468,Wey Up Market,33.9742514,-118.3283643,"3148 W Florence Ave, Los Angeles, CA 90043, USA",90043
+469,African Produce Central Market,34.0397046,-118.3393733,"4564 W Washington Blvd, Los Angeles, CA 90016, USA",90016
+470,Ben’s Discount Store,30.301454,-97.6936686,"E 51st St, Austin, TX, USA",90016
+471,Garcia’s Nini Mart,33.9826948,-118.2741694,"6223 S Main St, Los Angeles, CA 90003, USA",90003
+472,Mi Oaxaca Market,34.0761891,-118.2928107,"3824 Beverly Blvd, Los Angeles, CA 90004, USA",90004
+473,Golden Market,33.9739787,-118.3094593,"7219 S Western Ave, Los Angeles, CA 90047, USA",90047
+474,Duvys Mini Market,33.9863667,-118.2653665,"5943 S Avalon Blvd, Los Angeles, CA 90003, USA",90003
+475,Poblano’s Produce,34.03073790000001,-118.2432173,"1400 E Olympic Blvd # C, Los Angeles, CA 90021, USA",90021
+476,Daly Nutrition,34.0747262,-118.2155231,"2432 Daly St, Lincoln Heights, CA 90031, USA",90031
+477,Rivera Caribbean and African Grocery,34.03316,-118.244127,"1278 Produce Row, Los Angeles, CA 90021, USA",90021
+478,Chicago Market,41.8462516,-87.6730089,"2404 S Wolcott Ave STE 22, Chicago, IL 60608, USA",60608
+479,Promofood International,34.003582,-118.184379,"4306 E 26th St, Vernon, CA 90058, USA",90058
